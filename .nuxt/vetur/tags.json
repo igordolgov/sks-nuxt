@@ -1,0 +1,11 @@
+{
+  "AppHeader": {
+    "description": "Auto imported from components/AppHeader.vue"
+  },
+  "AppSidebar": {
+    "description": "Auto imported from components/AppSidebar.vue"
+  },
+  "ButtonBack": {
+    "description": "Auto imported from components/ButtonBack.vue"
+  }
+}

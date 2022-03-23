@@ -1,0 +1,56 @@
+[
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "Motors",
+    "path": "/ProductsList",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\ProductsList.vue",
+    "chunkName": "pages/ProductsList"
+  },
+  {
+    "name": "Propellers",
+    "path": "/Propellers",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\Propellers.vue",
+    "chunkName": "pages/Propellers"
+  },
+  {
+    "name": "Starters",
+    "path": "/Starters",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\Starters.vue",
+    "chunkName": "pages/Starters"
+  },
+  {
+    "name": "Tab1_Cards",
+    "path": "/Tab1_Cards",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\Tab1_Cards.vue",
+    "chunkName": "pages/Tab1_Cards"
+  },
+  {
+    "name": "Tab2_Cards",
+    "path": "/Tab2_Cards",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\Tab2_Cards.vue",
+    "chunkName": "pages/Tab2_Cards"
+  },
+  {
+    "name": "Tab3_Cards",
+    "path": "/Tab3_Cards",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\Tab3_Cards.vue",
+    "chunkName": "pages/Tab3_Cards"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "c:\\\\Users\\\\IgorDolgov\\\\Downloads\\\\sks-nuxt-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
